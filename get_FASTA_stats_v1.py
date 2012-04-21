@@ -1,3 +1,4 @@
+
 #
 # Parse a FASTA file with the defined function basic_stats() to abtain
 #    num_seq - how many sequences are there. Value is saved as an integer
