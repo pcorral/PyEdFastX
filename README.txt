@@ -37,7 +37,7 @@ Python (I used 2.6.5)
 ************************************
 Essentialy, PyEdFastX is a project (Python Editing for FastX) that contains two Python 
 scripts that retrive some statistics from a given FASTA and QUAL files and organizes 
-the output in a .tsv file (teb delimited file). One assumption that affects all the rest 
+the output in a .tsv file (tab delimited file). One assumption that affects all the rest 
 statistics is that all the sequences are aligned after fixing the middle position of all 
 of them and spanning to both sides from this fixed position. Strictly speacking, this is not a
 phylogenetic alignment, what we aim is to compare quality values in the extremes and 
